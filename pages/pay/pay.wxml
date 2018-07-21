@@ -1,0 +1,4 @@
+<!--pages/pay/pay.wxml-->
+<!-- <text>pages/pay/pay.wxml</text> -->
+<!-- <web-view src="https://testpage.zhongxiang51.com/index.html#/pay/takeoutDetail?orderId=fe6eac6ac463407c8468b7a8b4c18930&miniPay=true"></web-view> -->
+<!-- <view>{{payDate}}</view> -->
